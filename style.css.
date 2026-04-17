@@ -1,7 +1,7 @@
 /* Basic CSS Improvements */
 body {
   font-family: sans-serif;
-   background-color: #f0f0f0; /* Light gray background */
+   background-color: #f0f0f0; /* Light red background */
    padding: 20px;
 }
 header {
@@ -15,7 +15,7 @@ nav {
    text-align: center;
 }
 section {
-   background-color: white;
+   background-color: red;
    padding: 15px;
    border: 1px solid #ccc;
 }
