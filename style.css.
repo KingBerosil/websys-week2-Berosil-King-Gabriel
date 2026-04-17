@@ -1,8 +1,8 @@
 /* Basic CSS Improvements */
 body {
-  font-family: sans-serif;
-   background-color: #f0f0f0; /* Light red background */
-   padding: 20px;
+    background-color: red;
+    color: white; /* This makes text white so you can still read it on red */
+    font-family: Arial, sans-serif;
 }
 header {
    background-color: #003366; /* Dark blue */
